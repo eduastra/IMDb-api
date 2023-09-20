@@ -2,8 +2,6 @@ import requests
 from requests import get
 from bs4 import BeautifulSoup
 
-link = 'https://www.imdb.com/search/title/?count=100&title_type=feature,tv_series&ref_=nv_wl_img_'
-
 
 class IMDB:
     def __init__(self):

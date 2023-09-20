@@ -1,0 +1,21 @@
+"utils" é uma abreviação comumente usada para se referir a um pacote, módulo ou diretório que contém utilitários ou
+ferramentas de uso geral que podem ser usados em vários lugares dentro de um projeto. Esses utilitários são
+frequentemente funções ou classes que realizam tarefas comuns ou oferecem funcionalidades auxiliares que não estão
+diretamente relacionadas ao objetivo principal do software, mas são úteis em várias partes do código.
+
+Os utilitários podem ser usados para evitar a duplicação de código, melhorar a legibilidade do código, encapsular
+funcionalidades complexas em interfaces simples e facilitar a manutenção do software. Além disso, eles podem incluir
+funções para manipulação de data e hora, formatação de strings, operações de conversão, operações de arquivo, validação
+de entrada, cálculos matemáticos comuns e muito mais.
+
+A criação de um pacote ou módulo chamado "utils" é uma prática comum em muitos projetos de software para organizar esses
+ utilitários de forma centralizada e acessível a todas as partes do código que precisam deles. No entanto, é importante
+ documentar adequadamente os utilitários e suas funcionalidades para que outros desenvolvedores entendam como usá-los
+ corretamente.
+
+Em resumo, "utils" em desenvolvimento de software se refere a um conjunto de utilitários ou ferramentas de uso geral que
+ simplificam tarefas comuns e ajudam a tornar o código mais eficiente e fácil de manter.
+
+
+
+
