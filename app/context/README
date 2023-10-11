@@ -1,0 +1,10 @@
+Contexts (contextos): "Contexts" se refere ao ambiente ou às circunstâncias em que uma parte específica do código está
+sendo executada. Em programação, o contexto pode afetar o comportamento do código, como variáveis disponíveis,
+permissões de acesso e estado do sistema. Gerenciar contextos é importante para garantir que o código funcione
+corretamente em diferentes situações.
+
+
+Parses (análise): "Parses" é um termo que se refere ao ato de analisar ou desmembrar uma sequência de dados
+(geralmente texto) em partes menores, a fim de extrair informações úteis ou entender a estrutura dos dados.
+A análise é comum em linguagens de programação para processar entradas de usuário, arquivos de configuração
+ou dados de origens externas.

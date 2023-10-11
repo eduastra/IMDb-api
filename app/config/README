@@ -1,3 +1,9 @@
+Configs (configurações): "Configs" é uma abreviação para "configurações", que se refere às opções ou parâmetros que
+definem o comportamento de um programa ou sistema. As configurações podem ser armazenadas em arquivos de configuração,
+banco de dados ou definidas por meio de variáveis de ambiente. Essas configurações permitem que os desenvolvedores
+personalizem o comportamento do software sem precisar alterar o código-fonte.
+
+
 "utils" é uma abreviação comumente usada para se referir a um pacote, módulo ou diretório que contém utilitários ou
 ferramentas de uso geral que podem ser usados em vários lugares dentro de um projeto. Esses utilitários são
 frequentemente funções ou classes que realizam tarefas comuns ou oferecem funcionalidades auxiliares que não estão
