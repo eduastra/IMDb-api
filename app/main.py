@@ -11,8 +11,10 @@ class AppContext:
         self.soup = BeautifulSoup(url.content, 'lxml')
 
     def run(self):
-        print('foi')
-        data = DataStrip.articleTitle(self.soup)
+        data = DataStrip.articleTitle
+        print(data)
+        body = DataStrip.body
+        print(body)
         return data
 
 
